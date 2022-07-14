@@ -1,0 +1,22 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "rules": {
+    "indent": ["error", 2],
+    "linebreak-style": ["error", "windows"],
+    "quotes": ["error", "double"],
+    "semi": ["error", "always"],
+    "no-trailing-spaces": ["error"], // 不允许空行上的尾随空白
+    "no-multi-assign": "error", // 禁止在单个语句中使用多个分配
+    "no-multi-spaces": "error" // 禁止连续多个空格
+  }
+}

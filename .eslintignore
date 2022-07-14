@@ -1,0 +1,8 @@
+.vscode
+*.json
+node_modules
+dist
+public
+.gitignore
+*.lock
+*.md
