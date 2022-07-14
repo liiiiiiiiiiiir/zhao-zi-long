@@ -3,12 +3,16 @@
   "author": {
     "name": "MaMeMo"
   },
-  "version": "1.0.3",
+  "version": "1.0.13",
   "main": "./lib/cli.js",
   "license": "MIT",
   "type": "commonjs",
   "packageManager": "yarn@1.22.15",
-  "keywords": ["cli", "vite", "vue"],
+  "keywords": [
+    "cli",
+    "vite",
+    "vue"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/liiiiiiiiiiiir/zhao-zi-long"
