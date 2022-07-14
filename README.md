@@ -4,7 +4,11 @@
 
 ``` shell
   yarn global add zhao-zi-long
+```
+
   or
+
+``` shell
   npm install zhao-zi-long -g
 ```
 
@@ -12,6 +16,10 @@
 
 ``` shell
   ziLong -V
-  ziLong create [project-name]
-  ziLong greet
 ```
+
+``` shell
+  ziLong create [project-name]
+```
+
+`ziLong greet`
